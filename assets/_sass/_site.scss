@@ -323,7 +323,7 @@ canvas {
   p {
     font-size: 21px;
     line-height: 30px;
-    margin: 10px 0;
+    margin: 30px 0;
     padding-top: 25px;
   }
   ul {
@@ -432,9 +432,6 @@ canvas {
     margin: 10px 0;
     padding-top: 0;
     line-height: 24px;
-    &:first-of-type {
-      padding-top: 35px;
-    }
   }
 }
 
