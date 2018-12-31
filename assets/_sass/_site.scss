@@ -333,7 +333,7 @@ canvas {
 
   h2 {
     font-size: 20px;
-    color: #048bc3;
+    color: #048bc3 !important;
     margin: 0 auto 0;
     font-family: $base-font;
     position: relative;
@@ -436,7 +436,7 @@ canvas {
     line-height: 30px;
     margin: 10px 0;
     padding-top: 25px;
-    color: white;
+    color: white !important;
     &:after {
       display: none;
     }
@@ -465,7 +465,7 @@ canvas {
   }
 
   h2 {
-    color: #00bef7 !important;
+    color: #048bc3 !important;
     font-weight: 900 !important;
     font-size: 20px !important;
   }
