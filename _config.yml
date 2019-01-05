@@ -7,7 +7,7 @@ locale: en_US
 
 # Left Block Images
 background:
-  homepage: images/haunted.jpg                           # this image will be shown on homepage's left block
+  homepage: images/haunted2.jpg                           # this image will be shown on homepage's left block
   post-list: images/unsplash-image-10.jpg             # this image will be shown on post list page
   default-post: images/unsplash-gallery-image-3.jpg   # this image will be shown when post's front matter doesn't specify any image
 
@@ -30,13 +30,13 @@ sass:
 google-analytics: UA-131537917-1
 
 # Social Links
-email:             support@ghostthemes.com
-#google.plus:        username
+email:             todd@ghostthemes.com
+google.plus:        https://plus.google.com/+ToddBirchard
 twitter:            toddrbirchard
 #facebook:           username
 github:             toddbirchard
 # stackoverflow:    123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          https://www.linkedin.com/in/toddbirchard/
 #xing:              username
 #instagram:          username
 #lastfm:            username
