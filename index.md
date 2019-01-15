@@ -16,3 +16,10 @@ Premium themes for the [Ghost](https://ghost.org/) blogging platform (by [Todd B
 ![Stockholm](images/tokyo.jpeg)
 
 [Tokyo](https://github.com/toddbirchard/ghosttheme-tokyo) is a minimalist Ghost theme emphasizing readability, load times, and customization. Stays true to a philosophy of simplicity while expanding on Ghost features to elevate authors.
+
+
+## Warsaw
+
+![Warsaw](images/warsaw.jpg)
+
+[Warsaw](https://github.com/toddbirchard/ghosttheme-warsaw) Handcrafted Ghost theme for skilled craftsmen looking to put their work on display.

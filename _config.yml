@@ -36,7 +36,7 @@ twitter:            toddrbirchard
 #facebook:           username
 github:             toddbirchard
 # stackoverflow:    123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          https://www.linkedin.com/in/toddbirchard/
+linkedin:           https://www.linkedin.com/in/toddbirchard/
 #xing:              username
 #instagram:          username
 #lastfm:            username
@@ -52,7 +52,7 @@ linkedin:          https://www.linkedin.com/in/toddbirchard/
 #codepen:           username
 #keybase:           username
 #xmpp:              username@server.com
-#hackernews:        username
+hackernews:         toddbirchard
 #behance:           username
 
 # Gems

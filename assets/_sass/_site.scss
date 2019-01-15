@@ -1,5 +1,7 @@
 .block-left {
   float: left;
+  background: linear-gradient(rgba(121, 129, 175, 0.45), rgba(37, 40, 58, 0.9)), url(http://localhost:4000/images/haunted2.jpg) no-repeat;
+  background-size: cover;
 
   .content {
     z-index: 1;
@@ -49,7 +51,7 @@
 
 .content {
   padding: 60px;
-  max-width: 600px;
+  max-width: none;
   margin: 0 auto;
 }
 
@@ -336,7 +338,7 @@ canvas {
 .about-info,
 .main-info {
   text-align: center;
-  max-width: 400px;
+  max-width: 500px;
   width: 100%;
   margin: 0 auto;
 
@@ -347,6 +349,7 @@ canvas {
     font-size: 30px;
     position: relative;
     margin-top: 0;
+    display: none;
 
     &:after {
       content: "";
@@ -371,6 +374,7 @@ canvas {
     font-family: $base-font;
     position: relative;
     margin-top: 0;
+    text-transform: uppercase;
 
     &:after {
       content: "";
@@ -402,7 +406,7 @@ canvas {
 
     li {
       display: inline-block;
-      background: #585b63;
+      background: #0c0c0c;
       margin-right: 10px;
       vertical-align: middle;
       -webkit-transform: translateZ(0);
@@ -446,7 +450,7 @@ canvas {
       }
 
       &:nth-child(odd) {
-        background: $overlay-color;
+        background: #1f2025;
       }
 
       &:last-child {
@@ -487,6 +491,10 @@ canvas {
 
 .about-info {
   text-align: left;
+
+  p:first-of-type {
+    display: none;
+  }
 
   h1,
   h2 {
@@ -530,7 +538,7 @@ canvas {
     .content {
       height: auto;
       display: block;
-      max-width: 800px;
+      max-width: none;
     }
   }
 
