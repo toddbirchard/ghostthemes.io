@@ -29,6 +29,8 @@ body {
   font-family: $base-font;
   color: $overlay-color;
   background: $white;
+  display: flex;
+  flex-direction: column;
 }
 
 a {
@@ -197,7 +199,7 @@ img {
   height: auto;
   -ms-interpolation-mode: bicubic;
   image-rendering: optimizeQuality;
-  margin: 0 auto 20px;
+  margin: 0 auto;
 }
 
 // blockquotes

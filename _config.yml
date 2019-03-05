@@ -2,7 +2,7 @@
 title: GhostThemes
 description: Handmade themes for the Ghost blogging platform
 url: https://ghostthemes.io
-logo: ghostlogo.png                                       # Site logo
+logo: logo.png                                       # Site logo
 locale: en_US
 
 # Left Block Images
@@ -30,13 +30,15 @@ sass:
 google-analytics: UA-131537917-1
 
 # Social Links
-email:             todd@ghostthemes.com
-google.plus:        https://plus.google.com/+ToddBirchard
+email:              todd@ghostthemes.com
+# google.plus:        https://plus.google.com/+ToddBirchard
 twitter:            toddrbirchard
+website:            https://toddbirchard.com
 #facebook:           username
 github:             toddbirchard
 # stackoverflow:    123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           https://www.linkedin.com/in/toddbirchard/
+medium:             https://medium.com/@toddbirchard.
 #xing:              username
 #instagram:          username
 #lastfm:            username
@@ -53,10 +55,11 @@ linkedin:           https://www.linkedin.com/in/toddbirchard/
 #keybase:           username
 #xmpp:              username@server.com
 hackernews:         toddbirchard
+angelist:           todd-birchard
 #behance:           username
 
 # Gems
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
